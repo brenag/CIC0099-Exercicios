@@ -23,7 +23,7 @@ nl:	    .word 10
 	li a7, 10 #encerra o programa
 	ecall
 	
-######################## Escreva a função limpa a seguir #######################	
+	
 limpa:
     add s3, ra, zero #salva o endereço de retorno para a main
     add s1, a0, zero # salva o endereço inicial da string em s1 pra trabalhar com ele
