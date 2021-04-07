@@ -3,5 +3,5 @@ Exercícios de fixação de Assembly RISC-V e primeira prova da disciplina de Or
 <!--ts-->
 
    * [Exercícios para familiarização com as instruções do RISC-V](#remote-files): Esses exercícios se encontram [aqui](Exercícios%20-%20RARS).
-  
+   * [Prova 1 de OAC](#remote-files): As questões da prova se encontram [aqui](Prova%201).
 <!--te-->
